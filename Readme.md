@@ -1,4 +1,4 @@
 Stacked PR - GitHub
 
 test/rebase
-commit 1
+commit 2
