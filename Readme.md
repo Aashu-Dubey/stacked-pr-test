@@ -1,4 +1,3 @@
 Stacked PR - GitHub
 
-test/rebase
-commit 3
+test/rebase_feature_branch
